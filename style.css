@@ -5,3 +5,4 @@ header{display:flex;align-items:center;gap:12px;border-bottom:3px solid var(--ac
 header img{width:48px;height:48px;border-radius:50%}
 h1{font-size:1.6rem;margin:0}h2{font-size:1.15rem;margin-top:1.6em}
 .muted{color:var(--muted)}a{color:inherit}
+.hero{display:block;width:100%;max-width:520px;margin:24px auto;background:#fff;border-radius:12px;padding:16px;box-sizing:border-box}
